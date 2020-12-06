@@ -15,4 +15,4 @@ For assembly, two 10mm diameter metal pipes of 200mm length are needed.
 
 # BaQFA Plate holder
 
-A comfortable holder for Thermo Scientific™ Nunc™ OmniTray™ Single-Well Plates to keep the plate from moving when using the Lego Mindstorms robot to open and close the plate lide for time series photographs.
+A comfortable holder for Thermo Scientific™ Nunc™ OmniTray™ Single-Well Plates to keep the plate from moving when using the Lego Mindstorms robot to open and close the plate lid for time series photographs.
