@@ -10,7 +10,7 @@ This is  to help with consistent plating of 96 culture spots on agar for baQFA, 
 - Thermo Scientific™ Nunc™ OmniTray™ Single-Well Plate
 
 
-For assembly, two 10mm diameter metal pipes of 200mm length are needed.
+For assembly, two 10mm diameter rods of 200mm length are needed (ideally stainless steel or aluminium).
 
 
 ## BaQFA Plate holder
