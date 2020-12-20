@@ -16,6 +16,8 @@ To fix the rods in place:
    2. Take out the rods and use a 2mm drill bit make the holes in the metal slightly larger.
    3. Use a 28mm piece of 3D printing filament (1.75mm) and stick it through the holes in the plating tool base and the metal rod to fix the rods in place
    4. Don't use any glue or heat to fix the filament if you want to be able to disassemble the plater tool in the future
+   
+Coming soon: magnetic caps to keep the plater fixed at the top of the metal rods to make it easier when swapping plates.
 
 
 ## BaQFA Plate holder
