@@ -23,7 +23,3 @@ Coming soon: magnetic caps to keep the plater fixed at the top of the metal rods
 ## BaQFA Plate holder
 
 A comfortable holder for Thermo Scientific™ Nunc™ OmniTray™ Single-Well Plates to keep the plate from moving when using the Lego Mindstorms robot to open and close the plate lid for time series photographs.
-
-
-## BaQFA Robot Arm for Arduino
-- Coming in Q2 2021
