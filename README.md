@@ -1,9 +1,17 @@
 # 3D-Models-for-Printing
-A collection of models for printing with a 3D printer to improve life and work with BaQFA
+A collection of models for printing with a 3D printer to improve life and work with BaQFA.
+
+## Pipette Grid Template
+This tool helps you to pipette 3µl droplets of your bacterial suspension into a neat grid on the agar plate for more consistent results and makes the whole replica plating and plating tool obsolete.
+Highly recommended to use a multichannel pipette along with it (leave every second pipette tip away to get a chessboard pattern for competitive fitness measures).
+Instructions on how to use this with the BaQFA Android setup can be found on [baqfa.org](https://www.baqfa.org/).
+
 
 ## Plating Tool 
 
-This is  to help with consistent plating of 96 culture spots on agar for baQFA, using:
+**This is only needed if you are using the Replica Plater!** Consider switching to the pipette template with a multichannel pipette for more consistent results. 
+
+If you are still using the Sigma Replica Plater, the plating tool will help with consistent plating of 96 culture spots on agar for baQFA, using:
 
 - Sigma R2508 Replica Plater
 - Thermo Scientific™ Nunc™ MicroWell™ 96-Well Microplates
